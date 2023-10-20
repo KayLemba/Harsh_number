@@ -25,7 +25,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # <a name="about-project"></a>
-This is a ruby program that allows allows a user to enter an integer and tells them if it is a deficient, perfect or abundant number.
+This is a ruby program allows a user to enter an integer and tells them if it is a Harshad number or not.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
